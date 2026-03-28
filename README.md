@@ -52,3 +52,5 @@ This project simulates real-world network activity and cyber attacks in a contro
 - Cybersecurity lab development  
 
 ---
+
+## Screenshots
