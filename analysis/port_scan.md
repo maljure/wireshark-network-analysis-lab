@@ -41,6 +41,3 @@ A SYN scan was launched from the attacker machine (Kali Linux) targeting the vic
 The observed traffic is consistent with a TCP SYN scan (Nmap). This type of activity is commonly used by attackers to perform reconnaissance and identify open services on a target system.
 
 ---
-
-## Supporting Evidence
-- Wireshark filter used:  
