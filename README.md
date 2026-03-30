@@ -54,3 +54,11 @@ This project simulates real-world network activity and cyber attacks in a contro
 ---
 
 ## Screenshots
+<img width="852" height="585" alt="Wireshark-BruteForce-Traffic" src="https://github.com/user-attachments/assets/cf3b7954-2cb6-458f-b0ff-11a3e185de1d" />
+<img width="1084" height="579" alt="Brute-Force-SSH-Log" src="https://github.com/user-attachments/assets/148155aa-742c-4313-bf47-3a5bb48dbc62" />
+<img width="850" height="584" alt="Wireshark-TCP-Query" src="https://github.com/user-attachments/assets/6c54f36a-eefb-467c-a3de-44b04ee704b0" />
+<img width="852" height="583" alt="Wireshark-Sus-Traffic-SYN-ACK" src="https://github.com/user-attachments/assets/ee2b2235-10e2-428f-b1e8-52b3fbb4ec64" />
+<img width="1172" height="142" alt="Wireshark-Sus-Convo" src="https://github.com/user-attachments/assets/c8f18cbd-423e-4731-9085-26d2fd00d5d2" />
+<img width="672" height="291" alt="Wireshark-Normal-Traffic-Statistic" src="https://github.com/user-attachments/assets/4fb741e6-9740-4131-9b2e-1540364f8933" />
+<img width="854" height="582" alt="Wireshark-HTTP-Query" src="https://github.com/user-attachments/assets/fa3156f3-d302-4cbb-ac67-02aee79c0666" />
+<img width="855" height="582" alt="Wireshark-DNS-Query" src="https://github.com/user-attachments/assets/bcdf4505-7e6e-4722-bf7e-e0044d6c52e0" />
